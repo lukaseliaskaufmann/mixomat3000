@@ -23,5 +23,11 @@ Dieses Projekt wurde im Rahmen unserer Diplomarbeit an der HTL Saalfelden entwic
 - **pump_config.txt**: Konfiguration der Pumpen (Getränkemengen, Kalibrierung etc.).
 
 ---
+<img width="387" alt="Bildschirmfoto 2025-01-27 um 14 04 15" src="https://github.com/user-attachments/assets/6a65cae2-d27e-483e-b1ba-13c5b0f01b93" />
+
+<img width="404" alt="Bildschirmfoto 2025-01-27 um 14 04 24" src="https://github.com/user-attachments/assets/03ab3e2c-855f-45da-b29c-92d56c14c2dd" />
+
+---
+<img width="221" alt="Bildschirmfoto 2025-01-27 um 14 03 28" src="https://github.com/user-attachments/assets/fe781672-a7a0-4d03-818a-49a8802b40f2" />
 
 
