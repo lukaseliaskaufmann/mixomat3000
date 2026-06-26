@@ -9,7 +9,9 @@ Dieses Projekt wurde im Rahmen unserer Diplomarbeit an der HTL Saalfelden entwic
 ---
 
 ## Code-Übersicht
-<img width="511" alt="Bildschirmfoto 2025-01-27 um 13 54 58" src="https://github.com/user-attachments/assets/8ee8b98e-0583-4366-96f0-56ac004650bb" />
+<img width="805" height="714" alt="image" src="https://github.com/user-attachments/assets/0c4c9a21-e4e6-480f-9c96-2eb3fd86293a" />
+
+
 
 
 - **Loading.py**: Initialisiert das System und lädt notwendige Daten.
